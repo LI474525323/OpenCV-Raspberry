@@ -1,2 +1,3 @@
 txt
+rng
 ![](https://github.com/LI474525323/OpenCV-Raspberry/blob/master/raspberry/LinuxLogo.jpg)
